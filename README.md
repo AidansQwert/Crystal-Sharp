@@ -47,8 +47,8 @@ building lightweight runtimes and tools for systems I want to understand better.
 
 ### `> github stats`
 
-<img src="https://github-readme-stats.vercel.app/api?username=AidansQwert&show_icons=true&theme=radical&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AidansQwert&layout=compact&theme=radical&hide_border=true" height="165" />
+<img src="https://shaep.vercel.app/api?username=AidansQwert&show_icons=true&theme=radical&hide_border=true" height="165" />
+<img src="https://shaep.vercel.app/api/top-langs/?username=AidansQwert&layout=compact&theme=radical&hide_border=true" height="165" />
 
 </div>
 
